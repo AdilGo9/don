@@ -1,0 +1,9 @@
+#map {
+	height: 100%;
+}
+#navbar {
+	display: none;
+}
+p.bg-info {
+    padding: 15px;
+}
